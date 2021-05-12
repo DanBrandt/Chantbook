@@ -1,0 +1,72 @@
+\documentclass[11pt, twoside]{report}
+
+\usepackage{fontspec}
+\usepackage[utf8]{inputenc}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage{bbding}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{paracol}
+\usepackage{mdframed}
+\usepackage[margin=1in]{geometry}
+\usepackage[autocompile]{gregoriotex}
+
+\newcommand{\latinenglish}[2]{
+	\switchcolumn[0]* {
+		#1
+	}
+	\switchcolumn[1] {
+		\itshape\small
+		#2
+	}
+}
+
+\newcommand{\latinenglishequal}[2]{
+	\switchcolumn[0]* {
+		#1
+	}
+	\switchcolumn[1] {
+		\itshape
+		#2
+	}
+}
+
+\newenvironment{latinenglishsection}
+	{\columnratio{.7, .3} \begin{paracol}{2}}
+	{\end{paracol}}
+
+\newenvironment{latinenglishequalsection}
+	{\columnratio{.5, .5}\begin{paracol}{2}}
+	{\end{paracol}}
+
+\setlength{\columnseprule}{0.4pt}
+
+\newenvironment{verses}[1]
+	{\begin{flushleft} \begin{enumerate}[leftmargin=*] \setcounter{enumi}{#1}}
+	{\end{enumerate} \end{flushleft}}
+
+\newenvironment{versicles}{\par\leavevmode\parskip=0pt}{}
+
+\begin{document}
+
+\begin{latinenglishsection}
+
+\latinenglish{
+	\gresetinitiallines{0}
+	\gregorioscore{Quis_est}
+	}{Who is there among you, that will shut the doors,
+	 and will kindle the fire on my altar gratis? 
+	I have no pleasure in you, saith the Lord of hosts: 
+	and I will not receive a gift of your hand.
+	
+	 For from the rising of the sun even to the going down, 
+	 my name is great among the Gentiles, 
+	 and in every place there is sacrifice, and there is offered to my name a clean oblation: 
+	 for my name is great among the Gentiles, saith the Lord of hosts.
+	}
+
+\end{latinenglishsection}
+
+\end{document}

@@ -1,0 +1,32 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+% Header:
+
+name: Quis est;
+class: Antiphon;
+occasion: Miscellaneous;
+date: 2021;
+commentary: Malachi 1:10-11;
+transcriber: Daniel Brandt;
+transcription-date: 2021-05-10;
+style: modern;
+
+% 10: quis est in vobis qui claudat ostia et incendat altare meum gratuito non est mihi voluntas in vobis dicit Dominus exercituum et munus non suscipiam de manu vestra
+
+% 10 (ENG): Who is there among you, that will shut the doors, and will kindle the fire on my altar gratis? I have no pleasure in you, saith the Lord of hosts: and I will not receive a gift of your hand.
+
+% 11: ab ortu enim solis usque ad occasum magnum est nomen meum in gentibus et in omni loco sacrificatur et offertur nomini meo oblatio munda quia magnum nomen meum in gentibus dicit Dominus exercituum
+
+% 11 (ENG): For from the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation: for my name is great among the Gentiles, saith the Lord of hosts.
+
+% Score begins below the (%%)
+
+%%
+
+% The syntax in this part is called gabc. Please refer to http://gregorio-project.github.io/gabc/index.html
+
+
+Qui(c4ghjigh_i_h_)s e(h)st * i(g)n vo(h)bi(ghg)s qui(e) clau(g)da(h)t o(ih)sti(g)a(h) (,) e(efh)t i(jh)nce(i)da(h)t a(gi)lta(ih)re(h_) me(g)u(h)m gra(i)tu(h)i(gh)to(hj) no(ig)n e(h_i_h_)st (,) mi(l)hi(l) vo(k)lu(jh)nta(hi)s i(hg)n vo(eg)bi(hi)s di(hg)ci(e)t Do(gh)mi(ihg)nu(h)s (,) e(h)xe(gh)rci(h)tu(h)u(g) e(i)t mu(h)nu(h)s no(g)n su(e)sci(g)pi(h)a(hj)m de(ig) ma(h)nu(i) ve(h)stra(h.) (::)
+
+<sp>V/</sp> a(gh)b o(j)rtu(j) e(j)ni(j) so(j)li(j) us(j)que(j) a(j) o(j)cca(k_)su(j_)m (:) <sp>R/</sp> ma(ig)gnu(hj)m e(j)st no(j)me(j)n me(j)u(k)m i(i)n ge(j)nti(h)bu(h)s (::) <sp>V/</sp> e(g)t i(hj)n o(j)mni(j) lo(j)co(j) sa(j)cri(j)fi(j)ca(j)tu(j)r e(j)t o(j)ffe(j)rtu(j)r no(j)mi(j)ni(j) me(j)o(j) o(j)bla(k_)ti(j)o(j.) (:) <sp>R/</sp> mu(ig)nda(hj) qui(j)a(j) ma(j)nu(j)m no(j)me(j)n me(j)u(j)m i(j)n ge(j)nti(j)bu(j)s di(j)ci(j)t Do(j)mi(j)nu(j)s e(k)xe(i)rci(j)tu(h)u(h)m (::)
