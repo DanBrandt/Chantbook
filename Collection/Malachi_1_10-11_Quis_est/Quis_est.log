@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  12 MAY 2021 15:18
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  13 MAY 2021 16:09
  system commands enabled.
 **Quis_est.tex
 (./Quis_est.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 2.340 seconds
+luaotfload | main : initialization completed in 2.450 seconds
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -1160,15 +1160,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  39130 strings out of 494385
- 156268,794899 words of node,token memory allocated
+ 156270,794899 words of node,token memory allocated
  955 words of node memory still in use:
    4 hlist, 5 vlist, 1 rule, 2 glue, 4 kern, 3 glyph, 39 attribute, 127 glue_spe
 c, 12 attribute_list, 1 write, 1 user_defined nodes
-   avail lists: 1:7,2:16050,3:2513,4:26,5:3846,6:284,7:4372,8:5,9:4595,10:21,11:
+   avail lists: 1:7,2:16052,3:2513,4:25,5:3850,6:284,7:4378,8:3,9:4593,10:21,11:
 26
  42765 multiletter control sequences out of 65536+600000
  44 fonts using 8385671 bytes
- 49i,5n,68p,1196b,3340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,5n,68p,1196b,3346s stack positions out of 5000i,500n,10000p,200000b,80000s
 Module gregoriotex Info: Writing Quis_est.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1178,7 +1178,7 @@ ex/greextra.ttf><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/truetype/p
 ublic/gregoriotex/greciliae.ttf><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Dan/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on Quis_est.pdf (1 page, 37545 bytes).
+Output written on Quis_est.pdf (1 page, 37603 bytes).
 
 PDF statistics: 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
