@@ -11,7 +11,7 @@
 \GreHeader{transcription-date}{2021-05-10}%
 \GreHeader{style}{modern}%
 \GreEndHeaders %
-\GreBeginScore{717b624541579e1543a6a27a430cee9db31c7aeb}{14}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{7e656f9dda7e3752862557bb9b7d27e28707cb2b}{14}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -543,15 +543,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{}{a}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{}{a}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d }{o}{}{d}{ o}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{}{o}{}{o}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{cc}{a}{}{c}{ca}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d }{o}{}{d}{ o}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{cc}{a}{}{c}{ca}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{13}{}}{0}%
 {%
