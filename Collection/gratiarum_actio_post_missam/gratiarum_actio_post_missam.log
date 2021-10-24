@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  24 OCT 2021 18:09
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  24 OCT 2021 18:41
  system commands enabled.
 **gratiarum_actio_post_missam.tex
 (./gratiarum_actio_post_missam.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 2.328 seconds
+luaotfload | main : initialization completed in 2.461 seconds
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -819,6 +819,8 @@ Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
 (gratiarum_actio_post_missam.gaux)
+Module gregoriotex Info: Reading gratiarum_actio_post_missam.gaux on input line 
+125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write3
 \gre@read@temp=\read2
@@ -1006,10 +1008,9 @@ Module gregoriotex Info: Registering variant font greextra as gre@font@variant@D
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/gregoriotex/gregori
 otex-gsp-default.tex")
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/gregoriotex/gregori
-otex-nabc.tex")))
-No file gratiarum_actio_post_missam.aux.
-
+otex-nabc.tex"))) (./gratiarum_actio_post_missam.aux)
 \openout1 = gratiarum_actio_post_missam.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
@@ -1026,6 +1027,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for MDA+cmr on input line 62.
+
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mathdesign/mdacmr.fd
 "
 File: mdacmr.fd 
@@ -1272,16 +1274,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39216 strings out of 494385
- 195342,794899 words of node,token memory allocated
+ 39221 strings out of 494385
+ 195334,794899 words of node,token memory allocated
  1143 words of node memory still in use:
    4 hlist, 4 vlist, 1 rule, 2 glue, 31 kern, 3 glyph, 63 attribute, 129 glue_sp
 ec, 14 attribute_list, 1 write, 1 user_defined nodes
-   avail lists: 1:7,2:23240,3:2926,4:19,5:4395,6:471,7:8235,8:3,9:5373,10:14,11:
+   avail lists: 1:6,2:23337,3:2927,4:20,5:4412,6:473,7:8257,8:2,9:5399,10:14,11:
 182
  42794 multiletter control sequences out of 65536+600000
  77 fonts using 10579791 bytes
- 49i,5n,68p,1215b,2912s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,5n,68p,1215b,2920s stack positions out of 5000i,500n,10000p,200000b,80000s
 Module gregoriotex Info: Writing gratiarum_actio_post_missam.gaux on input line 
 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
@@ -1293,7 +1295,7 @@ ublic/gregoriotex/greciliae.ttf><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Dan/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Dan/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on gratiarum_actio_post_missam.pdf (3 pages, 72491 bytes).
+Output written on gratiarum_actio_post_missam.pdf (3 pages, 72487 bytes).
 
 PDF statistics: 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
