@@ -11,7 +11,7 @@
 \GreHeader{transcription-date}{2021-05-10}%
 \GreHeader{style}{modern}%
 \GreEndHeaders %
-\GreBeginScore{7e656f9dda7e3752862557bb9b7d27e28707cb2b}{14}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{105884c00ffbc9777e0e30144fd410cf43c20b5a}{14}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -45,7 +45,9 @@
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
-}{}{}%
+}{%
+\GrePunctumMora{10}{0}{0}{0}%
+}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{\GreFirstWord{st \GreStar{} }}{\GreFirstWord{i}}{}{\GreFirstWord{s}}{\GreFirstWord{t \GreStar{} }\GreFirstWord{i}}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{n v}}{\GreFirstWord{o}}{}{\GreFirstWord{n}}{\GreFirstWord{ v}\GreFirstWord{o}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
@@ -1007,14 +1009,16 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{u}{}{u}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{m }{}{m}{ }}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{}{u}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{m. }{}{m}{. }}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
-}{}{}%
+}{%
+\GrePunctumMora{10}{0}{0}{0}%
+}{}%
 }%
-\GreBarSyllable{\GreSetThisSyllable{}{m }{}{m}{ }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}\GreLastOfLine}{}{{18}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{m. }{}{m}{. }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}\GreLastOfLine}{}{{18}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreLastOfScore\GreDivisioFinalis{1}{}%
 }%

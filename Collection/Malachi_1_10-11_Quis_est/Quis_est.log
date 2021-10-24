@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  12 AUG 2021 23:08
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.5.9)  24 OCT 2021 19:09
  system commands enabled.
-**Quis_est.tex
-(./Quis_est.tex
+**quis_est.tex
+(./quis_est.tex
 LaTeX2e <2018-12-01>
 Lua module: luaotfload-main 2018-10-28 2.93 luaotfload entry point
 Lua module: luaotfload-init 2018-10-28 2.93 luaotfload submodule / initializatio
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 2.542 seconds
+luaotfload | main : initialization completed in 2.127 seconds
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size11.clo"
@@ -818,8 +818,8 @@ Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
-(Quis_est.gaux)
-Module gregoriotex Info: Reading Quis_est.gaux on input line 125
+(quis_est.gaux)
+Module gregoriotex Info: Reading quis_est.gaux on input line 125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write3
 \gre@read@temp=\read2
@@ -1007,8 +1007,8 @@ Module gregoriotex Info: Registering variant font greextra as gre@font@variant@D
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/gregoriotex/gregori
 otex-gsp-default.tex")
 ("C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/gregoriotex/gregori
-otex-nabc.tex"))) (./Quis_est.aux)
-\openout1 = Quis_est.aux
+otex-nabc.tex"))) (./quis_est.aux)
+\openout1 = quis_est.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
@@ -1118,13 +1118,15 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 20.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 8.64006pt on input line 20.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 38.40027pt on input line 20.
 
-Overfull \hbox (8.45567pt too wide) detected at line 246
+Overfull \hbox (8.45567pt too wide) detected at line 248
 |
  []
 
 
-Overfull \hbox (8.45567pt too wide) detected at line 255
+Overfull \hbox (8.45567pt too wide) detected at line 257
 |
  []
 
@@ -1152,24 +1154,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 [1
 
 {C:/Users/Dan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(./Quis_est.aux)
+(./quis_est.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 39130 strings out of 494385
- 156268,794899 words of node,token memory allocated
+ 39134 strings out of 494385
+ 156266,794899 words of node,token memory allocated
  955 words of node memory still in use:
    4 hlist, 5 vlist, 1 rule, 2 glue, 4 kern, 3 glyph, 39 attribute, 127 glue_spe
 c, 12 attribute_list, 1 write, 1 user_defined nodes
-   avail lists: 1:8,2:16052,3:2513,4:24,5:3850,6:284,7:4382,8:2,9:4593,10:20,11:
+   avail lists: 1:9,2:16083,3:2525,4:27,5:3846,6:284,7:4404,8:4,9:4605,10:21,11:
 26
- 42765 multiletter control sequences out of 65536+600000
- 44 fonts using 8385671 bytes
- 49i,5n,68p,1196b,3346s stack positions out of 5000i,500n,10000p,200000b,80000s
-Module gregoriotex Info: Writing Quis_est.gaux on input line 0
+ 42766 multiletter control sequences out of 65536+600000
+ 47 fonts using 8591383 bytes
+ 49i,5n,68p,1196b,3362s stack positions out of 5000i,500n,10000p,200000b,80000s
+Module gregoriotex Info: Writing quis_est.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
 {C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ly1/texnansi.enc
@@ -1178,7 +1180,7 @@ ex/greextra.ttf><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/truetype/p
 ublic/gregoriotex/greciliae.ttf><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Dan/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on Quis_est.pdf (1 page, 37610 bytes).
+Output written on quis_est.pdf (1 page, 37685 bytes).
 
 PDF statistics: 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
